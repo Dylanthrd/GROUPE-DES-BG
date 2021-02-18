@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Ville de Blois</h1>
+        <h1 id=blois>Ville de Blois</h1>
         <nav>
             <ul>
                 <li></li>
