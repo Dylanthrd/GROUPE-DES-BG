@@ -31,6 +31,10 @@ header {
     justify-content: space-between;
 }
 
+.header__brand span {
+    color: teal;
+}
+
 body {
     width: 100vw;
     height: auto;
