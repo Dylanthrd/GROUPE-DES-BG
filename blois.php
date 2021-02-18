@@ -8,10 +8,17 @@
 </head>
 <body>
     <header>
+<<<<<<< HEAD
         <h1 id=blois>Ville de Blois</h1>
         <nav>
             <ul>
                 <li></li>
+=======
+        <h1>Ville de Blois</h1>
+        <nav>
+            <ul>
+                <li>Actualités</li>
+>>>>>>> 59ea289eecd06f2d6527a3b2ce59ca305799a05b
                 <li></li>
                 <li></li>
                 <li></li>
