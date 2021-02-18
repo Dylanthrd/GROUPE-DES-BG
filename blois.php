@@ -11,10 +11,10 @@
         <h1>Ville de Blois</h1>
         <nav>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Accueil</li>
+                <li>A propos</li>
+                <li>Contact</li>
+                <li>Photos</li>
             </ul>
         </nav>
     </header>
