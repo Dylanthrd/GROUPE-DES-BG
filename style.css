@@ -20,3 +20,22 @@ h2{
 h3{
     font-size: 22px;
 }
+
+body {
+    width: 100vw;
+    height: auto;
+    background-color:white;
+}
+
+header {
+    background-color: teal;
+    height: 80px;
+}
+
+main {
+    background-color: white;
+}
+
+footer {
+    background-color: teal;
+}
