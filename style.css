@@ -44,3 +44,7 @@ main {
 footer {
     background-color: teal;
 }
+.photo__desc img{
+width: 300px;
+height: 300px;
+}
