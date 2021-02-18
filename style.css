@@ -52,3 +52,13 @@ main {
 footer {
     background-color: teal;
 }
+
+.decouvrir {
+    width: 100%;
+}
+
+.decouvrir img {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
