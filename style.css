@@ -30,3 +30,17 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+
+body {
+    width: 100vw;
+    height: auto;
+    background-color:white;
+}
+
+main {
+    background-color: white;
+}
+
+footer {
+    background-color: teal;
+}
